@@ -42,6 +42,9 @@ Platinum VIP Can be stacked with either "VIP" or "Gold VIP", adding the bonus ac
 (example: Gold VIP +2x and Platinum VIP +3x, together +5x, resulting with 10x/10x)<br>
 <br>
 <h2>Info</h2>
+<b>Account</b><br>
+Any and all VIP bonuses affects all the characters of one account.<br>
+<br>
 <b>Tokens</b><br>
 All three VIP-tokens are in-game items.<br>
 The VIP is activated in-game, in Prontera, through an NPC.<br>
