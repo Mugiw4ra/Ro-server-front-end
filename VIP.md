@@ -45,6 +45,10 @@ Platinum VIP Can be stacked with either "VIP" or "Gold VIP", adding the bonus ac
 <b>Account</b><br>
 Any and all VIP bonuses affects all the characters of one account.<br>
 <br>
+<b>Other Events</b><br>
+If MugenRO has on-going bonus exp event, the VIP bonuses will stack accordingly.<br><br>
+Example:<br>
+If MugenRO has "Double Exp Weekend", meaning the Exp rates will be changed from 5x to 10x for the weekend, the VIP bonuses will still continue to work: VIP +1x, Gold VIP +2x, Platinum VIP +3x. Bonus with Gold and Platinum with stacked would be +5x, resulting 15x exp rate.<br>
 <b>Tokens</b><br>
 All three VIP-tokens are in-game items.<br>
 The VIP is activated in-game, in Prontera, through an NPC.<br>
