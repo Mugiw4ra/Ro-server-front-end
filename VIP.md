@@ -3,8 +3,11 @@
 
 The VIP system of MugenRO is meant to boost the base and job xp for those who want to pay for the boost.<br>
 VIP system doesn't affect any drop rates. <br>
-Emulator: Hercules<br><br>
-
+Emulator: Hercules<br><br><br><br>
+<b>ATTENTION!<br>
+The bonus rates of VIP tokens are not final and will be changed. <br>
+They are defined here only to make the VIP-system more understandable. <br></b>
+<br><br>
 <b>Normal exp rates of MugenRO for all users:</b><br>
 5x Base experience<br>
 5x Job experience<br>
@@ -57,8 +60,7 @@ Speak to the VIP-NPC to activate your VIP-time with any VIP-token<br>
 The NPC also sells "VIP-token" and "Gold VIP-token" to players. <br>
 Platinum VIP-token is not sold by the in-game NPC.<br>
 <br>
-<b>Limits</b><br>
-The Duration of Platinum stacks accordingly.<br>
+<b>Gold + Platinum VIP stacking</b><br>
 Example:<br>
 If a player has 3 days left of Gold VIP and the player activates the Platinum VIP, the player will have 3 days of 10x exp and after Gold VIP has ran out, Platinum VIP will continue with the 8x exp (+3x bonus) for the remaining 4 days of the Platinum VIP.<br>
 <br>
