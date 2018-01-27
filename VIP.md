@@ -53,14 +53,14 @@ Platinum VIP-token is not sold by the in-game NPC.<br>
 The Duration of Platinum stacks accordingly.<br>
 Example:<br>
 If a player has 3 days left of Gold VIP and the player activates the Platinum VIP, <br>
-the player will have 3 days of 10x exp and after Gold VIP has ran out in 3 days, Platinum VIP will continue with the 8x exp (+3x bonus).
-
-</b>VIP and Gold VIP cannot be stacked with each other. /b>
+the player will have 3 days of 10x exp and after Gold VIP has ran out in 3 days, Platinum VIP will continue with the 8x exp (+3x bonus).<br>
+<br>
+<b>VIP and Gold VIP cannot be stacked with each other. </b>
 Only one of them can be active at any given time.<br>
 Example:<br>
 If a player activates Gold VIP while he has time left on VIP, the VIP will be immediatelly terminated and Gold VIP will be activated. This has to be "Confirmed" decision by the player.<br>
 <br>
-<b>Duration of VIP time cannot be stacked</b>
+<b>Duration of VIP time cannot be stacked</b><br>
 None of the VIP times can be activated multiple times to make the duration last longer.<br>
 Example:<br> 
 If a player wants to active two tokens of Platinum VIP, he can activate one of them, use it for 7 days and only after it has been ran out of time, the player can use the second token.<br>
