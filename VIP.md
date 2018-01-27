@@ -49,9 +49,9 @@ Platinum VIP Can be stacked with either "VIP" or "Gold VIP", adding the bonus ac
 Any and all VIP bonuses affects all the characters of one account.<br>
 <br>
 <b>Other Events</b><br>
-Any and all other Bonus Exp events will stack with VIP bonuses<br>
+Any and all other Bonus Exp events will <b>NOT</b> stack with VIP bonuses<br>
 Example:<br>
-If MugenRO has "Double Exp Weekend", meaning the Exp rates will be changed from 5x to 10x for the weekend, the VIP bonuses will still continue to work: VIP +1x, Gold VIP +2x, Platinum VIP +3x. Bonus with Gold and Platinum with stacked would be +5x, resulting 15x exp rate.<br>
+If MugenRO has "+50% Exp Weekend", meaning the Exp rates will be changed from 5x to 7,5x for the weekend, the VIP bonuses will NOT continue to work: All active VIP times will be halted for the duration of the Event, and they will continue after the Event has ended. The VIP time will not be wasted.<br>
 <br>
 <b>Tokens</b><br>
 All three VIP-tokens are in-game items.<br>
