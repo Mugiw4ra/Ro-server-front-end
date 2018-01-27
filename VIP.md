@@ -17,8 +17,8 @@ Item name: VIP-token<br>
 Tradeable: Yes<br>
 Stackable: Only with Platinum VIP<br>
 Bought from:<br>
-- VIP-NPC in Prontera<br>
-- Other players<br>
+- VIP-NPC in Prontera (zeny)<br>
+- Other players (zeny)<br>
 <br>
 <b>"Gold VIP" </b><br>
 +2x base and job, resulting with 7x/7x<br>
@@ -27,9 +27,9 @@ Item name: Gold VIP-token<br>
 Tradeable: Yes<br>
 Stackable: Only with Platinum VIP<br>
 Bought from:<br>
-- VIP-NPC in Prontera<br>
-- Donate-shop<br>
-- Other players<br>
+- VIP-NPC in Prontera (zeny)<br>
+- Donate-shop (donate-coins)<br>
+- Other players (zeny)<br>
 <br>
 <b>"Platinum VIP" </b><br>
 +3x base and job, resulting with 8x/8x<br>
@@ -37,7 +37,7 @@ Duration: 7 days<br>
 Item name: Platinum VIP-token<br>
 Tradeable: No<br>
 Bought from:<br>
-- Donate-shop<br>
+- Donate-shop (donate-coins)<br>
 Platinum VIP Can be stacked with either "VIP" or "Gold VIP", adding the bonus accordingly. <br>
 (example: Gold VIP +2x and Platinum VIP +3x, together +5x, resulting with 10x/10x)<br>
 <br>
@@ -55,7 +55,7 @@ Example:<br>
 If a player has 3 days left of Gold VIP and the player activates the Platinum VIP, <br>
 the player will have 3 days of 10x exp and after Gold VIP has ran out in 3 days, Platinum VIP will continue with the 8x exp (+3x bonus).<br>
 <br>
-<b>VIP and Gold VIP cannot be stacked with each other. </b>
+<b>VIP and Gold VIP cannot be stacked with each other. </b><br>
 Only one of them can be active at any given time.<br>
 Example:<br>
 If a player activates Gold VIP while he has time left on VIP, the VIP will be immediatelly terminated and Gold VIP will be activated. This has to be "Confirmed" decision by the player.<br>
