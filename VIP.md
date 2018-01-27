@@ -3,7 +3,8 @@
 
 The VIP system of MugenRO is meant to boost the base and job xp for those who want to pay for the boost.<br>
 VIP system doesn't affect any drop rates. <br>
-<br>
+Emulator: Hercules<br><br>
+
 <b>Normal exp rates of MugenRO for all users:</b><br>
 5x Base experience<br>
 5x Job experience<br>
