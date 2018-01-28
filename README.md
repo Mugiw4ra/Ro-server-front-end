@@ -1,5 +1,5 @@
 <meta charset="UTF-8">
-<h1><b>Project: Ragnarok Online Server (MMORPG)</b></h1>
+<h1><b>Website Project for Ragnarok Online Server (MMORPG)</b></h1>
 <b>Looking for Front-End Web-Developer!</b><br>
 Required:<br>
 - Design a logo for the server<br>
@@ -10,6 +10,7 @@ Required:<br>
 - Thor-patcher layout<br>
 Frontpage, few "info-pages", News-page, Donation-page, Account-page, etc. All pages done with the same theme.<br>
 Pictures from Google or made by yourself.<br>
+<b>The website is to be responsive.</b><br>
 
 <br>
 The layout is to be build on top of a Control Panel, meaning full integration for all necessary modules of the control panel.<br>
