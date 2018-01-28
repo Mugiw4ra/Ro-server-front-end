@@ -5,7 +5,7 @@ Required:<br>
 - Design a logo for the server<br>
 - Design a layout for website and for forums<br>
 - Code the layout (needs to merged/integrated with the FluxCP)<br> 
-- Mobile -version <br>
+- Mobile-friendly -version of the website <br>
 - 10 Loading screen wallpapers <br>
 - Thor-patcher layout<br>
 Frontpage, few "info-pages", News-page, Donation-page, Account-page, etc. All pages done with the same theme.<br>
