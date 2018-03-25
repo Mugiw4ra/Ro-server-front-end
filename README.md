@@ -48,7 +48,7 @@ Template has to have the same amount of information than the above mentioned tem
 - Polished <br>
 - Sophisticated<br>
 Something that tells the visitor immediatelly that this is a work of a professional, not just another generic template. <br>
-I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://imgur.com/a/t6gLU"> https://imgur.com/a/t6gLU</a> <br>
+I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> <br>
 <br>
 <b>Required in the frontpage:<br></b>
 - Logo<br>
