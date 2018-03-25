@@ -1,14 +1,14 @@
 <meta charset="UTF-8">
-<h1><b>MugenRO VIP System</b></h1>
+<h1><b>VIP System</b></h1>
 
-The VIP system of MugenRO is meant to boost the base and job xp for those who want to pay for the boost.<br>
+The VIP system is meant to boost the base and job xp for those who want to pay for the boost.<br>
 VIP system doesn't affect any drop rates. <br>
 Emulator: Hercules<br><br><br><br>
 <b>ATTENTION!<br>
 The bonus rates of VIP tokens are not final and will be changed. <br>
 They are defined here only to make the VIP-system more understandable. <br></b>
 <br><br>
-<b>Normal exp rates of MugenRO for all users:</b><br>
+<b>Normal exp rates of the server for all users:</b><br>
 5x Base experience<br>
 5x Job experience<br>
 <br>
@@ -51,7 +51,7 @@ Any and all VIP bonuses affects all the characters of one account.<br>
 <b>Other Events</b><br>
 Any and all other Bonus Exp events will <b>NOT</b> stack with VIP bonuses<br>
 Example:<br>
-If MugenRO has "+50% Exp Weekend", meaning the Exp rates will be changed from 5x to 7,5x for the weekend, the VIP bonuses will NOT continue to work: All active VIP times will be halted for the duration of the Event, and they will continue after the Event has ended. The VIP time will not be wasted.<br>
+If the server has "+50% Exp Weekend", meaning the Exp rates will be changed from 5x to 7,5x for the weekend, the VIP bonuses will NOT continue to work: All active VIP times will be halted for the duration of the Event, and they will continue after the Event has ended. The VIP time will not be wasted.<br>
 <br>
 <b>Tokens</b><br>
 All three VIP-tokens are in-game items.<br>
