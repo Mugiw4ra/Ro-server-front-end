@@ -10,15 +10,13 @@ gaze after a boat that disappears behind distant islands. To
 contemplate the flight of wild geese seen and lost among the clouds. <b>Yugen is a profound awareness of the universe which evokes emotional responses too deep and mysterious for words</b><br>
 <br><br>
 
-- <b>First candidate of a description for YugenRO -server:</b>
+- <b>First candidate of a description for YugenRO -server:</b><br>
 "Perfect realm to fulfill all fantasies. YugenRO exists to offer
 chance of escapism for the dull and boring world where we all live
 in."<br>
 This will probably be written over, but still we try to preserve the essence of it.<br>
 <br><br>
 
-
-<br>
 <b>The style of the layout should be something of: </b><br>
 - Simple-looking <br>
 - Calm-coloured <br>
