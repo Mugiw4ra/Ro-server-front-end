@@ -8,7 +8,8 @@ To watch the sun sink behind a flower clad hill. To wander on in a
 huge forest without thought of return. To stand upon the shore and
 gaze after a boat that disappears behind distant islands. To
 contemplate the flight of wild geese seen and lost among the clouds. <b>Yugen is a profound awareness of the universe which evokes emotional responses too deep and mysterious for words</b><br>
-<br>
+<br><br>
+
 - <b>First candidate of a description for YugenRO -server:</b>
 "Perfect realm to fulfill all fantasies. YugenRO exists to offer
 chance of escapism for the dull and boring world where we all live
@@ -22,7 +23,7 @@ This will probably be written over, but still we try to preserve the essence of 
 - Simple-looking <br>
 - Calm-coloured <br>
 - Polished <br>
-- Sophisticated<br><br>
+- Sophisticated<br>
 - <b>Must be responsive!!</b><br>
 - Needs to completely merged/integrated with all the necessary FluxCP modules for players<br>
 Something unique that is nothing like the "generic RO-servers", something that tells the visitor immediatelly that this is a work of a professional, not just another generic re-sale template that's used by other servers. <br>
