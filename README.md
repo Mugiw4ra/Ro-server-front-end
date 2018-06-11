@@ -1,30 +1,49 @@
 <meta charset="UTF-8">
-<h1><b>Website Project for Ragnarok Online Server (MMORPG)</b></h1>
-<b>Looking for Front-End Web-Developer!</b><br>
-Required:<br>
-- Design a logo for the server<br>
-- Design a layout for website and for forums<br>
-- Code the layout (needs to merged/integrated with the FluxCP)<br> 
-- Mobile-friendly -version of the website <br>
-- 10 Loading screen wallpapers <br>
-- Thor-patcher layout<br>
-Frontpage, few "info-pages", News-page, Donation-page, Account-page, etc. All pages done with the same theme.<br>
-Pictures from Google or made by yourself.<br>
-<b>The website is to be responsive.</b><br>
+<h1><b>Website layout</b></h1>
+- Must be responsive!!
+- Needs to completely merged/integrated with all the necessary FluxCP modules for players
 
+<b>The style of the layout should be something of: </b><br>
+- Simple-looking <br>
+- Minimal <br>
+- Calm-coloured <br>
+- Polished <br>
+- Sophisticated<br>
+Something unique that is nothing like the "generic RO-servers", something that tells the visitor immediatelly that this is a work of a professional, not just another generic re-sale template that's used by other servers. <br>
+I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> <br>
+<b>What is NOT wanted:</b><br>
+- No too dark colors. The layout can be a bit dark, but warm and friendly colors are preferred. The layout needs to fit with the logo well, and the logo has to be be easily recognized immediatelly when entering the website.
+- No scrolling frontpage when viewed in Pc/Desktop. But because it will be responsive, Mobile-users probably will need to scroll in order to fully view the website in a user-friendly way. A technical example for mobile-friendly style is https://www.limitro.com/ but their layout is ugly.
+- No Too much distractions <br>
+- No Scrolling website (parallax feels stupid for this thing) <br>
+I liked the old Dawn of Midgard -layout a lot but sadly there is no example of it. <br>
+In any case, it's probably not good enough for this server. If i remember right, there wasn't enough information in the front page.<br>
 <br>
-The layout is to be build on top of a Control Panel, meaning full integration for all necessary modules of the control panel.<br>
-The Control Panel in question: <a href="https://github.com/HerculesWS/FluxCP"> https://github.com/HerculesWS/FluxCP</a><br>
-Fresh install of the Flux Control Panel: <a href="https://imgur.com/a/DbuVZ"> https://imgur.com/a/DbuVZ</a><br>
-<br>
-Some examples of different templates. These templates cost from 30$ up to 180$: <br>
-<a href="http://www.ea-dev.com/designs/custom-templates">http://www.ea-dev.com/designs/custom-templates</a><br> 
-<a href="http://www.ea-dev.com/designs/responsive-templates-ro">http://www.ea-dev.com/designs/responsive-templates-ro</a><br>
-<a href="http://www.ea-dev.com/designs/reseller-templates">http://www.ea-dev.com/designs/reseller-templates</a><br>
-<a href="http://www.ea-dev.com/designs/landing-templates">http://www.ea-dev.com/designs/landing-templates</a><br>
+<b>Required in the frontpage:<br></b>
+- Logo ! (in every page)<br>
+- Server status (Char, Map and Login -servers, Online/Offline)<br>
+- Players Online, AFK-Vendors online <-- Very important! The Vendors-number could probably(?) be hidden to ALT-text of "Players Online" when mouse over? Maybe it would look better, not sure.<br>
+- Server Time - format: "15:09:42 (CET)"<br>
+- WoE Schedule - when is the WoE-event(s), format: "Sat 18:00 & Sun 21:00"<br>
+- WoE On/Off - is the WoE currently active?<br>
+- WoE Countdown clock - how long until next woe starts?<br>
+(For example, https://originsro.org has well shown Players online + WoE info, but i'm sure it can be done in much better style and looks) 
+- Episode info (13.2) (this might not be shown in front page, but in "INFO" or similar page)<br> 
+- Rate info (5x/5x/3x)<br>
+- Play Now -button (Very important! needs to be big and clear and attractive)<br>
+- Review Us -button 
+- Menu links (example: Forum, Info, Features, Rules, Download, Staff, About, Contact us, something,something..)<br>
+- Facebook, Discord, Twitter Youtube -links/buttons<br>
+- Small and pretty area for "Download", "Register" and "Login" in top of the page<br>
+<br><br>
+ Additional stuff, that can be shown on frontpage: <br>
+1. "Media of the month", usually some kind of a screenshot, sometimes a video or gif.<br>
+2. Top-chart, either Top PvP-players or Top Guilds, or some other Top-chart<br>
+3. Latest News, shows the latest news, that are posted in forums by admins, like patch notes, events, announcements etc, or something<br>
 
 
-<b><br><br>Biggest servers currently online. These are the competitors:<br></b>
+
+<b><br><br>Biggest servers currently online. These are the competitors!<br></b>
 <a href="https://forsaken-ro.net/">https://forsaken-ro.net/</a><br>
 <a href="https://talonro.com/">https://talonro.com/</a><br>
 <a href="https://www.novaragnarok.com/">https://www.novaragnarok.com/</a><br>
@@ -38,43 +57,12 @@ Some examples of different templates. These templates cost from 30$ up to 180$: 
 <a href="https://www.gatheringro.ch/">https://www.gatheringro.ch/</a> <br>
 <br>
 Some of those have unique-look but most have the "generic template".<br>
-The layout need to be something unique - something that looks different from those templates//websites mentioned above.<br>
-<br>
-Template has to have the same amount of information than the above mentioned templates. <br>
-<b>The style of the template should be: </b><br>
-- Simple-looking <br>
-- Minimal <br>
-- Calm-coloured <br>
-- Polished <br>
-- Sophisticated<br>
-Something that tells the visitor immediatelly that this is a work of a professional, not just another generic template. <br>
-I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> <br>
-<br>
-<b>Required in the frontpage:<br></b>
-- Logo<br>
-- Server status (Char, Map and Login -servers, Online/Offline)<br>
-- Players Online (Very important!)<br>
-- Episode info (13.2)<br>
-- Rate info (5x/5x/3x)<br>
-- Play Now -button (Very important! needs to be big and clear and attractive)<br>
-- Review Us -button 
-- Menu links (example: Info, Rules, Download, Staff, About, Contact us, Forum, something,something..)<br>
-- Facebook, Discord, Twitter Youtube -links/buttons<br>
-- Small and cute area for "Download", "Register" and "Login" in top of the page<br>
-- Server Time - format: "15:09:42 (CET)"<br>
-- WoE Schedule - when is the WoE-event(s), format: "Sat 18:00 & Sun 21:00"<br>
-- WoE On/Off - is the WoE currently active?<br>
-- WoE Countdown clock - how long until next woe starts?<br>
-Additional stuff, required to be shown on frontpage, preferably in "Three big boxes": <br>
-1. "Media of the month", usually some kind of a screenshot, sometimes a vid or gif.<br>
-2. Top-chart, either Top PvP-players or Top Guilds<br>
-3. Latest News, shows the latest news, that are posted in forums by admins, like patch notes, events etc<br>
+The layout need to be something that looks different from those templates//websites mentioned above.<br>
+
+
 
 <br>
-<b>What is NOT wanted:</b><br>
-- Dark coloured theme <br>
-- Too much distractions <br>
-- Scrolling website (parallax feels stupid for this thing) <br>
+
 - A person who don't understand english <br>
 <br>
 <b>This project is not in a rush, and it won't start before March 2018</b><br>
