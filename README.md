@@ -1,16 +1,13 @@
 <meta charset="UTF-8">
 <h1><b>Website layout</b></h1>
 <b> Ultimately, we have no clear vision as what should the website look like. All we know is that it needs to strike to a potential player with the biggest force possible. Visitor should immediatelly get a feeling that they would want to play in the server, only because they saw how amazing the website looks like and how does feels to use.<br>
-That said, maybe following stuff in this text-file would provide useful.</b>
+That said, maybe following stuff in this text-file would provide useful.</b><br><br>
 
 - <b>The definition of word "Yugen": </b><br>
 To watch the sun sink behind a flower clad hill. To wander on in a
 huge forest without thought of return. To stand upon the shore and
 gaze after a boat that disappears behind distant islands. To
-contemplate the flight of wild geese seen and lost among the clouds.<br>
-<br>
-  Yugen is a profound awareness of the universe which evokes emotional
-responses too deep and mysterious for words<br>
+contemplate the flight of wild geese seen and lost among the clouds. <b>Yugen is a profound awareness of the universe which evokes emotional responses too deep and mysterious for words</b><br>
 <br>
 - <b>First candidate of a description for YugenRO -server:</b>
 "Perfect realm to fulfill all fantasies. YugenRO exists to offer
@@ -19,14 +16,15 @@ in."<br>
 This will probably be written over, but still we try to preserve the essence of it.<br>
 <br><br>
 
-- <b>Must be responsive!!</b><br>
-- Needs to completely merged/integrated with all the necessary FluxCP modules for players<br>
+
 <br>
 <b>The style of the layout should be something of: </b><br>
 - Simple-looking <br>
 - Calm-coloured <br>
 - Polished <br>
 - Sophisticated<br><br>
+- <b>Must be responsive!!</b><br>
+- Needs to completely merged/integrated with all the necessary FluxCP modules for players<br>
 Something unique that is nothing like the "generic RO-servers", something that tells the visitor immediatelly that this is a work of a professional, not just another generic re-sale template that's used by other servers. <br>
 I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> and while it looks pretty good, it's not finished layout and thefore it can't be used as an example.<br><br>
 
