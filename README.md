@@ -1,16 +1,16 @@
 <meta charset="UTF-8">
 <h1><b>Website layout</b></h1>
-- Must be responsive!!
-- Needs to completely merged/integrated with all the necessary FluxCP modules for players
-
+- Must be responsive!!<br>
+- Needs to completely merged/integrated with all the necessary FluxCP modules for players<br>
+<br>
 <b>The style of the layout should be something of: </b><br>
 - Simple-looking <br>
 - Minimal <br>
 - Calm-coloured <br>
 - Polished <br>
-- Sophisticated<br>
+- Sophisticated<br><br>
 Something unique that is nothing like the "generic RO-servers", something that tells the visitor immediatelly that this is a work of a professional, not just another generic re-sale template that's used by other servers. <br>
-I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> <br>
+I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> <br><br>
 <b>What is NOT wanted:</b><br>
 - No too dark colors. The layout can be a bit dark, but warm and friendly colors are preferred. The layout needs to fit with the logo well, and the logo has to be be easily recognized immediatelly when entering the website.
 - No scrolling frontpage when viewed in Pc/Desktop. But because it will be responsive, Mobile-users probably will need to scroll in order to fully view the website in a user-friendly way. A technical example for mobile-friendly style is https://www.limitro.com/ but their layout is ugly.
@@ -58,16 +58,5 @@ In any case, it's probably not good enough for this server. If i remember right,
 <br>
 Some of those have unique-look but most have the "generic template".<br>
 The layout need to be something that looks different from those templates//websites mentioned above.<br>
-
-
-
-<br>
-
-- A person who don't understand english <br>
-<br>
-<b>This project is not in a rush, and it won't start before March 2018</b><br>
-Completion of the server is expected during this year, 2018.<br>
-After the completion of the website, if the job goes well, there is definitely more work promised, although not as big as this. 
-
 
 
