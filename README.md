@@ -1,5 +1,24 @@
 <meta charset="UTF-8">
 <h1><b>Website layout</b></h1>
+<b> Ultimately, we have no clear vision as what should the website look like. All we know is that it needs to strike to a potential player with the biggest force possible. Visitor should immediatelly get a feeling that they would want to play in the server, only because they saw how amazing the website looks like and how does feels to use.<br>
+That said, maybe following stuff in this text-file would provide useful.</b>
+
+- <b>The definition of word "Yugen": </b><br>
+To watch the sun sink behind a flower clad hill. To wander on in a
+huge forest without thought of return. To stand upon the shore and
+gaze after a boat that disappears behind distant islands. To
+contemplate the flight of wild geese seen and lost among the clouds.<br>
+<br>
+  Yugen is a profound awareness of the universe which evokes emotional
+responses too deep and mysterious for words<br>
+<br>
+- <b>First candidate of a description for YugenRO -server:</b>
+"Perfect realm to fulfill all fantasies. YugenRO exists to offer
+chance of escapism for the dull and boring world where we all live
+in."<br>
+This will probably be written over, but still we try to preserve the essence of it.<br>
+<br><br>
+
 - <b>Must be responsive!!</b><br>
 - Needs to completely merged/integrated with all the necessary FluxCP modules for players<br>
 <br>
@@ -9,11 +28,11 @@
 - Polished <br>
 - Sophisticated<br><br>
 Something unique that is nothing like the "generic RO-servers", something that tells the visitor immediatelly that this is a work of a professional, not just another generic re-sale template that's used by other servers. <br>
-I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> <br><br>
+I had a Wizard-level developer but he is too busy. He wasn't able to finish his vision of the design: <a href="https://puu.sh/zPvj7/70df6f203d.jpg"> https://puu.sh/zPvj7/70df6f203d.jpg</a> and while it looks pretty good, it's not finished layout and thefore it can't be used as an example.<br><br>
 
 <b>What is NOT wanted:</b><br>
 - No too dark colors. The layout can be a bit dark, but warm and friendly colors are preferred. The layout needs to fit with the logo well, and the logo has to be be easily recognized immediatelly when entering the website.
-- No scrolling frontpage when viewed in Pc/Desktop. But because it will be responsive, Mobile-users probably will need to scroll in order to fully view the website in a user-friendly way. A technical example for mobile-friendly style is https://www.limitro.com/ but their layout is ugly.<br>
+- No scrolling frontpage when viewed in Pc/Desktop. But because it will be responsive, Mobile-users probably will need to scroll in order to fully view the website in a user-friendly way. A technical example for mobile-friendly style is https://www.limitro.com/ but their layout is ugly. Also, they have way too long front page. The layout that we want, should not required to scroll down at all <br>
 - No Too much distractions <br>
 - No Scrolling website (parallax feels stupid for this thing) <br><br>
 
@@ -34,7 +53,7 @@ In any case, it's probably not good enough for this server. If i remember right,
 - Play Now -button (Very important! needs to be big and clear and attractive)<br>
 - Review Us -button 
 - Menu links (example: Forum, Info, Features, Rules, Download, Staff, About, Contact us, something,something..)<br>
-- Facebook, Discord, Twitter Youtube -links/buttons<br>
+- Facebook, Discord, Twitter, Instagram, Youtube -links/buttons. The colors of buttons are to fit in the layout. Dont use original button colors<br>
 - Small and pretty area for "Download", "Register" and "Login" in top of the page<br>
 <br><br>
  <b>Additional stuff, that can be shown on frontpage:</b> <br>
